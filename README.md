@@ -1,6 +1,6 @@
 # Raphael Publish - 公众号排版大师
 
-专为**微信公众号**与**内容创作者**打造的现代 Markdown 排版引擎。
+专为**微信公众号**与**内容创作者**打造的现代 Markdown 排版引擎
 
 > **在线体验**：[https://publish.raphael.app](https://publish.raphael.app)
 
